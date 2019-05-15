@@ -57,7 +57,7 @@ gem 'devise'
 gem 'jquery-rails'
 
 # Use Bootstrap 4
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 
 # FontAwesome
 gem 'font-awesome-rails'
