@@ -152,3 +152,7 @@ If the test suite passes, you'll be ready to run the app in a local server:
 `rails server`
 
 Now navigate to navigate to [http://localhost:3000](http://localhost:3000) in your browser to see the application
+
+# Code Status
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a9372e8d580948df952a24fcf9a48b99)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=peter-ohara/tenderswift&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/a9372e8d580948df952a24fcf9a48b99)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=peter-ohara/tenderswift&utm_campaign=Badge_Coverage)
